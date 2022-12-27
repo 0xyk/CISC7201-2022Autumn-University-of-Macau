@@ -7,14 +7,16 @@
 * apply scientific packages (e.g., NumPy and SciPy) to perform useful computations
 * process text file using external packages (e.g., tabula)
 * apply stunning data visualization tools to visualize large data sets
-## Assignment 1
+## Assignments
+**Assignment 1**
 > 1. Hello World!
 > 2. Sum of 5 nums
 > 3. Function call practice
 > 4. Rectangle area
 > 5. Calculate The Volume of A Cone using Function
 > 6. Days between two dates
-## Assignment 2
+
+**Assignment 2**
 > 1. Determine whether Grover adaptive search is successful
 > 2. Application of greatest common divisor
 > 3. Print hollow rectangle
@@ -23,7 +25,8 @@
 > 6. Multiplication table
 > 7. List Overlap
 > 8. Convert two lists intodictionary
-## Assignment 3
+
+**Assignment 3**
 > 1. Unique string
 > 2. Add digits
 > 3. Famous Joe
@@ -32,7 +35,8 @@
 > 6. Find all prime numbers in a range
 > 7. Cut the string
 > 8. Moving average
-## Assignment 4
+
+**Assignment 4**
 > 1. Use of Lambda function in python
 > 2. Softmax
 > 3. A recursive function
@@ -42,7 +46,8 @@
 > 7. Change lowercase characters into uppercase characters
 > 8. Sort the chars
 > 9. Roman to Integer
-## Assignment 5 (Numpy)
+
+**Assignment 5 (Numpy)**
 > 0. Broadcast in numpy
 > 1. Finding zero elements in an integer matrix
 > 2. Singular Value Decomposition
