@@ -56,6 +56,18 @@
 > 5. Find max, min and average
 > 6. Statistics in real dataset
 > 7. Threshold
+
+**Midterm practice**
+> 1. Diamond
+> 2. Specific summation
+> 3. Average of two class
+> 4. Hello World!
+> 5. Cut the string
+> 6. Sum of 5 nums
+> 7. Function with Arbitrary Arguments
+> 8. Remove all 'a'
+> 9. Find an insert position
+> 10. 1 in binary
 ## Midterm
 **Regulations**
 > 1. You are only allowed to use one laptop to answer the questions during the examination;
